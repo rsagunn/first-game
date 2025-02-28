@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_car_parked",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":{"name":"obj_car","path":"objects/obj_car/obj_car.yy",},"eventNum":0,"eventType":4,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_car_parked",
   "overriddenProperties":[],
